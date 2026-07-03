@@ -7,6 +7,8 @@
 
 Search for films and series, save titles, mark them as watched, rate them, and get recommendations based on your favorite genres and current mood.
 
+![CineDive Telegram Bot Demo](./assets/demo.png)
+
 ## What is it?
 
 CineDive Bot is a modular Telegram bot that helps users discover what to watch next directly inside Telegram.
